@@ -11,16 +11,17 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: samridh.203127@sggscc.ac.in
 organizations:
   - name: University of Delhi
 education:
   courses:
-    - institution: Manav Sthali School
-      course: Commerce with Mathematics
-      year: ""
-    - course: "Bachelor's in Economics (minor: Mathematics)"
+    - course: B.A. (hons.) Economics
       institution: University of Delhi
+      year: ""
+    - institution: Manav Sthali School
+      course: Commerce and Mathematics
+      year: 2020
 email: ""
 superuser: true
 highlight_name: true
