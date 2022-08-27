@@ -18,7 +18,7 @@ education:
   courses:
     - course: B.A. (hons.) Economics
       institution: University of Delhi
-      year: ""
+      year: 2023
     - institution: Manav Sthali School
       course: Commerce and Mathematics
       year: 2020
