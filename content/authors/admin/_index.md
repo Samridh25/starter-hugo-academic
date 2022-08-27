@@ -25,6 +25,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-A curious Economics student trying to strike that harmonic cord between constraints and rationality. Student at University of Delhi. Research assistant at Delhi School of Economics.
+A curious Economics student trying to strike that harmonic cord between constraints and rationality. Student at University of Delhi and research assistant at Delhi School of Economics. Looking forward to pursue a career in academics...
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
