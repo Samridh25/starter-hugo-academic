@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: samridh.203127@sggscc.ac.in
+    link: mailto:samridh.203127@sggscc.ac.in
 organizations:
   - name: University of Delhi
 education:
