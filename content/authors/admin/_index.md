@@ -1,7 +1,7 @@
 ---
 title: "Samridh Aggarwal "
 role: "Economics undergraduate "
-avatar_filename: screenshot_2022-07-26-17-00-45-77_92460851df6f172a4592fca41cc2d2e6.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
